@@ -33,7 +33,7 @@ static const struct option longopts[] = {
 };
 
 /* Forward declarations.  */
-static void print_help (void);
+static void print_help (void); /**/
 static void print_version (void);
 
 int
