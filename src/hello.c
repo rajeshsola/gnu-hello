@@ -40,7 +40,7 @@ int
 main (int argc, char *argv[])
 {
   int optc;
-  int lose = 0;
+  int lose = 0; //yes
   const char *greeting_msg;
   wchar_t *mb_greeting;
   size_t len;
