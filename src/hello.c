@@ -22,7 +22,7 @@
 #include "errno.h"
 #include "error.h"
 #include "progname.h"
-#include "xalloc.h"
+#include "xalloc.h" /**/
 
 static const struct option longopts[] = {
   {"greeting", required_argument, NULL, 'g'},
